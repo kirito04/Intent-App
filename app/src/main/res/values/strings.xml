@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Explicit Intent</string>
+    <string name="nameString">please enter your name</string>
+    <string name="activity2">Activity2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="finalOutput">Data from activity 3 will be displayed here</string>
+    <string name="wlcmstringact2">Welcome to Activity 2</string>
+    <string name="surname">please enter your surname</string>
+    <string name="submitBtn">Submit</string>
+</resources>
